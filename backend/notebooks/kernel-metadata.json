@@ -1,0 +1,16 @@
+{
+  "id": "ujj14kal/jobsync-ai-trainer-v2",
+  "title": "JobSync AI Trainer v2",
+  "code_file": "kaggle_train.py",
+  "language": "python",
+  "kernel_type": "script",
+  "is_private": true,
+  "enable_gpu": true,
+  "enable_internet": true,
+  "dataset_sources": [
+    "snehaanbhawal/resume-dataset",
+    "arshkon/linkedin-job-postings"
+  ],
+  "competition_sources": [],
+  "kernel_sources": []
+}

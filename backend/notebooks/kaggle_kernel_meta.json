@@ -1,5 +1,5 @@
 {
-  "id": "KAGGLE_USERNAME/jobsync-ai-trainer",
+  "id": "ujj14kal/jobsync-ai-trainer",
   "title": "JobSync AI Trainer v2",
   "code_file": "kaggle_train.py",
   "language": "python",
@@ -9,7 +9,7 @@
   "enable_internet": true,
   "dataset_sources": [
     "snehaanbhawal/resume-dataset",
-    "arashnic/linkedin-job-postings"
+    "arshkon/linkedin-job-postings"
   ],
   "competition_sources": [],
   "kernel_sources": []
